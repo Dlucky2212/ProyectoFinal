@@ -1,0 +1,110 @@
+# depslib dependency file v1.0
+1498780460 source:f:\trabajo1\juegofinal\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	"Game.h"
+
+1498764414 source:f:\trabajo1\juegofinal\src\estats.cpp
+	"Estats.h"
+
+1498766049 f:\trabajo1\juegofinal\include\estats.h
+	<stdio.h>
+	<iostream>
+	<cctype>
+
+1498765642 source:f:\trabajo1\juegofinal\src\ataque.cpp
+	"Ataque.h"
+
+1498765642 f:\trabajo1\juegofinal\include\ataque.h
+	<string.h>
+	<stdio.h>
+	<iostream>
+	"Estats.h"
+
+1498766071 source:f:\trabajo1\juegofinal\src\pokemon.cpp
+	"Pokemon.h"
+
+1498766560 f:\trabajo1\juegofinal\include\pokemon.h
+	<iostream>
+	<string.h>
+	<stdio.h>
+	"Ataque.h"
+	"Estats.h"
+
+1498766189 source:f:\trabajo1\juegofinal\src\pokemon1.cpp
+	"Pokemon1.h"
+
+1498766189 f:\trabajo1\juegofinal\include\pokemon1.h
+
+1498767010 source:f:\trabajo1\juegofinal\src\mywindow.cpp
+	"MyWindow.h"
+	<iostream>
+	"Mysize.h"
+	"Position.h"
+	<iostream>
+	<string.h>
+	"Screen.h"
+
+1498777616 f:\trabajo1\juegofinal\include\mywindow.h
+	"Mysize.h"
+	"Position.h"
+	<iostream>
+	<string.h>
+	"Screen.h"
+
+1498766808 source:f:\trabajo1\juegofinal\src\position.cpp
+	"Position.h"
+	<iostream>
+
+1498766808 f:\trabajo1\juegofinal\include\position.h
+	<iostream>
+
+1498766812 source:f:\trabajo1\juegofinal\src\screen.cpp
+	"Screen.h"
+	<iostream>
+	<stdio.h>
+
+1498766808 f:\trabajo1\juegofinal\include\screen.h
+	<iostream>
+	<windows.h>
+	<Position.h>
+
+1498766939 source:f:\trabajo1\juegofinal\src\mysize.cpp
+	"Mysize.h"
+	<iostream>
+
+1498766939 f:\trabajo1\juegofinal\include\mysize.h
+	<iostream>
+
+1498768437 source:f:\trabajo1\juegofinal\src\personaje.cpp
+	"Personaje.h"
+	"Position.h"
+	<iostream>
+	"Screen.h"
+
+1498768448 f:\trabajo1\juegofinal\include\personaje.h
+	"Position.h"
+	<iostream>
+	"Screen.h"
+
+1498780684 source:f:\trabajo1\juegofinal\src\game.cpp
+	"Game.h"
+	<time.h>
+	"MyWindow.h"
+	"Personaje.h"
+	<sstream>
+	<vector>
+	"Position.h"
+	"Mysize.h"
+	<iostream>
+	<conio.h>
+
+1498780043 f:\trabajo1\juegofinal\include\game.h
+	<time.h>
+	<MyWindow.h>
+	<Personaje.h>
+	<sstream>
+	<vector>
+
